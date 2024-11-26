@@ -32,5 +32,5 @@ int main()
 	tabCasier.transbergeur[0] = c1;
 	tabCasier.transbergeur[2] = c2;
 
-	cout << sizeof(ro1) << "\n" << sizeof(pa1) << "\n" << sizeof(etatC1) << "\n" << sizeof(cont) << "\n" << sizeof(c1) << "\n" << sizeof(c2) << endl;
+	cout << sizeof(ro1) << "\n" << sizeof(pa1) << "\n" << sizeof(etatC1) << "\n" << sizeof(cont) << "\n" << sizeof(c1) << "\n" << sizeof(c2) << "\n" << sizeof(tabCasier) << endl;
 }
